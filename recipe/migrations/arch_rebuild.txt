@@ -262,6 +262,7 @@ bullet
 urdfdom
 urdfdom_headers
 pygraphviz
+pytensor
 qhull
 lcov
 lua
